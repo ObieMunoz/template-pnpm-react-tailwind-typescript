@@ -1,4 +1,4 @@
-# Template: SvelteKit - PNPM - TailwindCSS - TypeScript
+# Template: React.js - PNPM - TailwindCSS - TypeScript
 
 ## Developing
 
